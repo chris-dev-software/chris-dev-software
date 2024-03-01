@@ -1,6 +1,6 @@
 ### Hi, I'm Christopher Romero 👋
 
-![Christopher Romero](https://github.com/chris-dev-software/chris-dev-software/assets/161795856/023daaac-05c5-441f-a616-8aa82ca616ae)
+<img width="1834" alt="Chris Romero" src="https://github.com/chris-dev-software/chris-dev-software/assets/161795856/93eca3f8-1736-4dde-89d7-def7814d4dda">
 
 <!--
 **chris-dev-software/chris-dev-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
